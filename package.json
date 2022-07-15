@@ -1,0 +1,26 @@
+{
+  "name": "vscode-cp",
+  "version": "0.1.0",
+  "description": "VSCode extension contribution points builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidblkx/vscode-cp.git"
+  },
+  "keywords": [
+    "vscode"
+  ],
+  "author": "David Pires",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Davidblkx/vscode-cp/issues"
+  },
+  "homepage": "https://github.com/Davidblkx/vscode-cp#readme",
+  "dependencies": {
+    "@types/node": "^18.0.4",
+    "typescript": "^4.7.4"
+  }
+}
